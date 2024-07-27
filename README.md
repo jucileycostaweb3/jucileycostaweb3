@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Juciley Costa! 👋
 
-<!--
-**jucileycostaweb3/jucileycostaweb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🚀 Sobre mim
+Sou desenvolvedor backend sênior com mais de 10 anos de experiência em TI. Além de dominar o ecossistema Java, Azure DevOps e RESTful WebServices usando Spring Boot, que me permitem criar aplicações robustas, escaláveis e integradas, estou sempre em busca de desafios, do compartilhamento de conhecimento e de experiências novas(no momento, em busca de algo disruptivo e por isso embarcando na Web3 | Blockchain).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👩‍💻 Trabalho como desenvolvedor Java na consultoria DBC Company (https://www.dbccompany.com.br/). Atuo no cliente Unicred, uma empresa que oferece soluções de tecnologia para o cooperativismo financeiro.
+
+🧠 Aprendendo mais sobre o mundo Web3/Blockchain.
+
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, Solidity).
+
+💻 Procuro colaborar e compartilhar todo o meu conhecimento adquirido.
+
+🏃‍♂️ No meu tempo livre pratico corrida de rua/atletismo.
+
+
+## 🛠 Habilidades
+Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure, AWS, NodeJs, Solidity. 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciley-costa/)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jucileycostaweb3)
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jucileycostaweb3&show_icons=true)
