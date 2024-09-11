@@ -9,7 +9,7 @@ Sou desenvolvedor backend sênior com mais de 10 anos de experiência em TI. Al�
 
 🧠 Aprendendo mais sobre o mundo Web3/Blockchain.
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, Solidity).
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, Solidity, Rust, Stellar Blockchain).
 
 💻 Procuro colaborar e compartilhar todo o meu conhecimento adquirido.
 
@@ -17,7 +17,7 @@ Sou desenvolvedor backend sênior com mais de 10 anos de experiência em TI. Al�
 
 
 ## 🛠 Habilidades
-Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure, AWS, NodeJs, Solidity. 
+Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure, AWS, NodeJs, Solidity, Rust
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciley-costa/)
