@@ -2,14 +2,14 @@
 
 
 # 🚀 Sobre mim
-Sou desenvolvedor backend sênior com mais de 10 anos de experiência em TI. Além de dominar o ecossistema Java, Azure DevOps e RESTful WebServices usando Spring Boot, que me permitem criar aplicações robustas, escaláveis e integradas, estou sempre em busca de desafios, do compartilhamento de conhecimento e de experiências novas(no momento, em busca de algo disruptivo e por isso embarcando na Web3 | Blockchain).
+Desenvolvedor backend com mais de 10 anos de experiência em TI. Além de dominar o ecossistema Java, Azure DevOps e RESTful WebServices usando Spring Boot, que me permitem criar aplicações robustas, escaláveis e integradas, estou sempre em busca de desafios, do compartilhamento de conhecimento e de experiências novas. No momento, em busca de algo disruptivo e por isso embarcando na Web3 | Blockchain.
 
 
-👩‍💻 Trabalho como desenvolvedor Java na consultoria DBC Company (https://www.dbccompany.com.br/). Atuo no cliente Unicred, uma empresa que oferece soluções de tecnologia para o cooperativismo financeiro.
+👩‍💻 Atualmente trabalho como desenvolvedor Java na consultoria DBC Company (https://www.dbccompany.com.br/). Atuo no cliente Unicred, uma empresa que oferece soluções de tecnologia para o cooperativismo financeiro.
 
-🧠 Aprendendo mais sobre o mundo Web3/Blockchain.
+🧠 Aprendendo e construindo meu portfólio no mundo Web3/Blockchain.
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, Solidity, Rust, Stellar Blockchain).
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, Rust, Stellar Blockchain).
 
 💻 Procuro colaborar e compartilhar todo o meu conhecimento adquirido.
 
@@ -17,7 +17,7 @@ Sou desenvolvedor backend sênior com mais de 10 anos de experiência em TI. Al�
 
 
 ## 🛠 Habilidades
-Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure, AWS, NodeJs, Solidity, Rust
+Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops, NodeJs, Rust, SorobanSDK, Stellar Blockchain
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciley-costa/)
