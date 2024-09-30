@@ -9,7 +9,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em TI. Além de domina
 
 🧠 Aprendendo e construindo dia a dia meu portfólio no mundo Web3/Blockchain.
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, Rust, Stellar Blockchain, Solidity).
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, TypeScript, Rust, SorobanSDK(Stellar Blockchain), Solidity).
 
 💻 Procuro colaborar e compartilhar todo o meu conhecimento adquirido.
 
@@ -17,7 +17,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em TI. Além de domina
 
 
 ## 🛠 Habilidades
-Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops, NodeJs, Rust, SorobanSDK, Stellar Blockchain, Solidity
+Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops, NodeJS, TypeScript, Rust, SorobanSDK(Stellar Blockchain), Solidity.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciley-costa/)
