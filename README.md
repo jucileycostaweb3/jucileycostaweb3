@@ -7,9 +7,9 @@ Desenvolvedor backend com mais de 10 anos de experiência em TI. Além de domina
 
 👩‍💻 Atualmente trabalho como desenvolvedor Java na consultoria DBC Company (https://www.dbccompany.com.br/). Atuo no cliente Unicred, uma empresa que oferece soluções de tecnologia para o cooperativismo financeiro.
 
-🧠 Aprendendo e construindo meu portfólio no mundo Web3/Blockchain.
+🧠 Aprendendo e construindo dia a dia meu portfólio no mundo Web3/Blockchain.
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, Rust, Stellar Blockchain).
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NodeJS, Rust, Stellar Blockchain, Solidity).
 
 💻 Procuro colaborar e compartilhar todo o meu conhecimento adquirido.
 
@@ -17,7 +17,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em TI. Além de domina
 
 
 ## 🛠 Habilidades
-Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops, NodeJs, Rust, SorobanSDK, Stellar Blockchain
+Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops, NodeJs, Rust, SorobanSDK, Stellar Blockchain, Solidity
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciley-costa/)
