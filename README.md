@@ -1,23 +1,23 @@
-# Olá, eu sou o Juciley Costa! 👋
+# Hi, I'm Juciley Costa! 👋
 
 
-# 🚀 Sobre mim
-Desenvolvedor backend com mais de 10 anos de experiência em TI. Além de dominar o ecossistema Java, Azure DevOps e RESTful WebServices usando Spring Boot, que me permitem criar aplicações robustas, escaláveis e integradas, estou sempre em busca de desafios, do compartilhamento de conhecimento e de experiências novas. No momento, em busca de algo disruptivo e por isso embarcando na Web3 | Blockchain.
+# 🚀 About me
+Backend developer with over 10 years of experience in IT. In addition to mastering the Java ecosystem, Azure DevOps, and RESTful WebServices using Spring Boot, which allows me to create robust, scalable, and integrated applications, I'm always looking for challenges, knowledge sharing, and new experiences. Currently, I'm seeking something disruptive, which is why I'm venturing into Web3 | Blockchain.
 
 
-👩‍💻 Atualmente trabalho como desenvolvedor Java na consultoria DBC Company (https://www.dbccompany.com.br/). Atuo no cliente Unicred, uma empresa que oferece soluções de tecnologia para o cooperativismo financeiro.
+👩‍💻 Currently working as a Java developer at DBC Company (https://www.dbccompany.com.br/). I work with Unicred, a company that offers technology solutions for financial cooperativism.
 
-🧠 Aprendendo e construindo dia a dia meu portfólio no mundo Web3/Blockchain.
+🧠 Learning and building my Web3/Blockchain portfolio daily.
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software(NextJS, NodeJS, TypeScript, Tailwind CSS, Rust, SorobanSDK(Stellar Blockchain), Solidity).
+🤔 Exploring new technologies and developing software solutions (NextJS, NodeJS, TypeScript, Tailwind CSS, Rust, SorobanSDK(Stellar Blockchain), Solidity).
 
-💻 Procuro colaborar e compartilhar todo o meu conhecimento adquirido.
+💻 Looking to collaborate and share all my acquired knowledge.
 
-🏃‍♂️ No meu tempo livre pratico corrida de rua/atletismo.
+🏃‍♂️ In my free time, I enjoy road running/athletics.
 
 
 ## 🛠 Habilidades
-Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops, NextJS, NodeJS, TypeScript, Tailwind CSS, Rust, SorobanSDK(Stellar Blockchain), Solidity.
+NextJS, NodeJS, TypeScript, Tailwind CSS, Rust, SorobanSDK(Stellar Blockchain), Solidity, Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciley-costa/)
