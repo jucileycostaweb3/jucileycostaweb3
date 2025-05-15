@@ -9,7 +9,7 @@ Backend developer with over 10 years of experience in IT. In addition to masteri
 
 🧠 Learning and building my Web3/Blockchain portfolio daily.
 
-🤔 Exploring new technologies and developing software solutions (NextJS, NodeJS(NestJS), TypeScript, Tailwind CSS, Rust, SorobanSDK(Stellar Blockchain), Hyperledger Besu(focus on DREX), Solidity).
+🤔 Exploring new technologies and developing software solutions (NextJS, NodeJS(NestJS), TypeScript, Tailwind CSS, Besu(focus on DREX), Chainlink, Solidity).
 
 💻 Looking to collaborate and share all my acquired knowledge.
 
@@ -17,7 +17,7 @@ Backend developer with over 10 years of experience in IT. In addition to masteri
 
 
 ## 🛠 Habilidades
-NextJS, NodeJS(NestJS), TypeScript, Tailwind CSS, Rust, SorobanSDK(Stellar Blockchain), Hyperledger Besu(focus on DREX), Solidity, Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops.
+NextJS, NodeJS(NestJS), TypeScript, Tailwind CSS, Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops, Besu(focus on DREX), Chainlink, Solidity.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciley-costa/)
