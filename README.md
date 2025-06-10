@@ -9,7 +9,7 @@ Backend developer with over 10 years of experience in IT. In addition to masteri
 
 🧠 Learning and building my Web3/Blockchain portfolio daily.
 
-🤔 Exploring new technologies and developing software solutions (Solidity, Chainlink, Besu(focus on DREX) and GO).
+🤔 Exploring new technologies and developing software solutions (Solidity, Chainlink, Besu(focus on DREX) and Java).
 
 💻 Looking to collaborate and share all my acquired knowledge.
 
@@ -17,7 +17,7 @@ Backend developer with over 10 years of experience in IT. In addition to masteri
 
 
 ## 🛠 Habilidades
-Solidity, Chainlink, Besu(focus on DREX), GO, Java, Spring Boot, SQL Server, MongoDB, Kafka, Azure Devops.
+Solidity, Chainlink, Besu(focus on DREX), Java, Spring Boot.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juciley-costa/)
